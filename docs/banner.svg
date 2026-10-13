@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="compose-tv-search: search for Android TV with Compose for TV" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1ZjUxMTI3ZC1hOWEyLTQxNzUtYmVkMy1kMjZiODA5NWM3YjQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE3e48oEi/hLP6tqFWtQBkYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5ZGZhYTkxMC01OTdhLTQ1NWUtOTNmOC1kMDdkZDJmMTYyNmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoTn5I07rIWcF909o+L7D1uwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggm3Xpr4Iv0T104usmyEzx83xAtIut40Wn2If6Hfoau6ukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGa/gplAtuwC1Ipku6AEFNsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDIhFYR60mFxSMbbyeBW2UW0KiGZXSvvOvqrSqgTBv6pmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjtZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVmNTExMjdkLWE5YTItNDE3NS1iZWQzLWQyNmI4MDk1YzdiNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAyN2VlNzhhLWI1MGYtNDk0Ny05MzRlLTg0YzVlOWMyMWFhZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCbdemvgi/RPXTi6ybITPHzfEC0i63jRafYh/od+hq7q6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg+2qn8wihKo0Y+2X9oHA3RmGmLci25bKg43332ZIOUE2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggr+nYQ75iZ4AUE1+q+rofQutX5OO9s5zmxF1c+Mp/Nj90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJv5OyhIlQjATIiHeh7rw1PwBq9LtS7o/oVydSkUzIpbpWwhNQtLMDx6bW/UY3IK9UY84rmwGRT1Pl+hRpbtu7I=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0d14"/>
+      <stop offset="1" stop-color="#10233a"/>
+    </linearGradient>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3c72"/><stop offset="1" stop-color="#ffc371"/></linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a1c71"/><stop offset="1" stop-color="#ffaf7b"/></linearGradient>
+    <linearGradient id="c3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#7fe7d3"/></linearGradient>
+    <linearGradient id="c4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b24592"/><stop offset="1" stop-color="#ffe29f"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#7fd1ff" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <g font-family="'Google Sans', Roboto, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="80" y="176" fill="#ffffff" font-size="52" font-weight="800" letter-spacing="-1.5">compose-tv-search</text>
+    <text x="82" y="230" fill="#cfeaff" font-size="26" font-weight="500">Search for Android TV in Compose for TV:</text>
+    <text x="82" y="266" fill="#cfeaff" font-size="26" font-weight="500">keyboard grid, voice, suggestions, results</text>
+    <text x="82" y="326" fill="#7fd1ff" font-size="19" font-family="'JetBrains Mono', Menlo, monospace">TvSearchScreen(state, results, resultKey = { it.id })</text>
+    <g font-size="17" font-weight="600" fill="#e3f3ff">
+      <rect x="82" y="360" width="112" height="36" rx="18" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="138" y="384" text-anchor="middle">Keyboard</text>
+      <rect x="204" y="360" width="84" height="36" rx="18" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="246" y="384" text-anchor="middle">Voice</text>
+      <rect x="298" y="360" width="94" height="36" rx="18" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="345" y="384" text-anchor="middle">D-pad</text>
+      <rect x="402" y="360" width="112" height="36" rx="18" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="458" y="384" text-anchor="middle">Debounce</text>
+      <rect x="82" y="406" width="174" height="36" rx="18" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="169" y="430" text-anchor="middle">Recent searches</text>
+      <rect x="266" y="406" width="174" height="36" rx="18" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="353" y="430" text-anchor="middle">Focus restoring</text>
+    </g>
+    <g transform="translate(640 70)" filter="url(#shadow)">
+      <rect width="580" height="360" rx="18" fill="#0a0d14" stroke="#2a3040" stroke-width="6"/>
+      <circle cx="51" cy="44" r="15" fill="#ffffff" fill-opacity="0.12"/>
+      <rect x="47" y="35" width="8" height="13" rx="4" fill="#f1f3f8"/>
+      <path d="M44 45 a7 7 0 0 0 14 0" fill="none" stroke="#f1f3f8" stroke-width="1.8"/>
+      <rect x="74" y="29" width="138" height="30" rx="15" fill="#ffffff" fill-opacity="0.08"/>
+      <circle cx="91" cy="43" r="5" fill="none" stroke="#a9b2c3" stroke-width="1.8"/>
+      <path d="M95 47 L99 51" stroke="#a9b2c3" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="106" y="49" fill="#f1f3f8" font-size="15" font-weight="600">light</text>
+      <rect x="143" y="35" width="2" height="16" fill="#7fd1ff"/>
+      <rect x="36" y="70" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="49" y="88" text-anchor="middle" font-size="13" fill="#f1f3f8">a</text>
+      <rect x="66" y="70" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="79" y="88" text-anchor="middle" font-size="13" fill="#f1f3f8">b</text>
+      <rect x="96" y="70" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="109" y="88" text-anchor="middle" font-size="13" fill="#f1f3f8">c</text>
+      <rect x="126" y="70" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="139" y="88" text-anchor="middle" font-size="13" fill="#f1f3f8">d</text>
+      <rect x="156" y="70" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="169" y="88" text-anchor="middle" font-size="13" fill="#f1f3f8">e</text>
+      <rect x="186" y="70" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="199" y="88" text-anchor="middle" font-size="13" fill="#f1f3f8">f</text>
+      <rect x="36" y="100" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="49" y="118" text-anchor="middle" font-size="13" fill="#f1f3f8">g</text>
+      <rect x="66" y="100" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="79" y="118" text-anchor="middle" font-size="13" fill="#f1f3f8">h</text>
+      <rect x="96" y="100" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="109" y="118" text-anchor="middle" font-size="13" fill="#f1f3f8">i</text>
+      <rect x="126" y="100" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="139" y="118" text-anchor="middle" font-size="13" fill="#f1f3f8">j</text>
+      <rect x="156" y="100" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="169" y="118" text-anchor="middle" font-size="13" fill="#f1f3f8">k</text>
+      <rect x="186" y="100" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="199" y="118" text-anchor="middle" font-size="13" fill="#f1f3f8">l</text>
+      <rect x="36" y="130" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="49" y="148" text-anchor="middle" font-size="13" fill="#f1f3f8">m</text>
+      <rect x="66" y="130" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="79" y="148" text-anchor="middle" font-size="13" fill="#f1f3f8">n</text>
+      <rect x="96" y="130" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="109" y="148" text-anchor="middle" font-size="13" fill="#f1f3f8">o</text>
+      <rect x="126" y="130" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="139" y="148" text-anchor="middle" font-size="13" fill="#f1f3f8">p</text>
+      <rect x="156" y="130" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="169" y="148" text-anchor="middle" font-size="13" fill="#f1f3f8">q</text>
+      <rect x="186" y="130" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="199" y="148" text-anchor="middle" font-size="13" fill="#f1f3f8">r</text>
+      <rect x="36" y="160" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="49" y="178" text-anchor="middle" font-size="13" fill="#f1f3f8">s</text>
+      <rect x="66" y="160" width="26" height="26" rx="6" fill="#f1f3f8" fill-opacity="1"/>
+      <text x="79" y="178" text-anchor="middle" font-size="13" fill="#0a0d14">t</text>
+      <rect x="96" y="160" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="109" y="178" text-anchor="middle" font-size="13" fill="#f1f3f8">u</text>
+      <rect x="126" y="160" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="139" y="178" text-anchor="middle" font-size="13" fill="#f1f3f8">v</text>
+      <rect x="156" y="160" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="169" y="178" text-anchor="middle" font-size="13" fill="#f1f3f8">w</text>
+      <rect x="186" y="160" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="199" y="178" text-anchor="middle" font-size="13" fill="#f1f3f8">x</text>
+      <rect x="36" y="190" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="49" y="208" text-anchor="middle" font-size="13" fill="#f1f3f8">y</text>
+      <rect x="66" y="190" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="79" y="208" text-anchor="middle" font-size="13" fill="#f1f3f8">z</text>
+      <rect x="96" y="190" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="109" y="208" text-anchor="middle" font-size="13" fill="#f1f3f8">1</text>
+      <rect x="126" y="190" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="139" y="208" text-anchor="middle" font-size="13" fill="#f1f3f8">2</text>
+      <rect x="156" y="190" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="169" y="208" text-anchor="middle" font-size="13" fill="#f1f3f8">3</text>
+      <rect x="186" y="190" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="199" y="208" text-anchor="middle" font-size="13" fill="#f1f3f8">4</text>
+      <rect x="36" y="220" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="49" y="238" text-anchor="middle" font-size="13" fill="#f1f3f8">5</text>
+      <rect x="66" y="220" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="79" y="238" text-anchor="middle" font-size="13" fill="#f1f3f8">6</text>
+      <rect x="96" y="220" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="109" y="238" text-anchor="middle" font-size="13" fill="#f1f3f8">7</text>
+      <rect x="126" y="220" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="139" y="238" text-anchor="middle" font-size="13" fill="#f1f3f8">8</text>
+      <rect x="156" y="220" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="169" y="238" text-anchor="middle" font-size="13" fill="#f1f3f8">9</text>
+      <rect x="186" y="220" width="26" height="26" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="199" y="238" text-anchor="middle" font-size="13" fill="#f1f3f8">0</text>
+      <rect x="36" y="250" width="56" height="26" rx="6" fill="#ffffff" fill-opacity="0.16"/>
+      <text x="64.0" y="267" text-anchor="middle" font-size="11" fill="#f1f3f8">space</text>
+      <rect x="96" y="250" width="56" height="26" rx="6" fill="#ffffff" fill-opacity="0.16"/>
+      <text x="124.0" y="267" text-anchor="middle" font-size="11" fill="#f1f3f8">⌫</text>
+      <rect x="156" y="250" width="56" height="26" rx="6" fill="#ffffff" fill-opacity="0.16"/>
+      <text x="184.0" y="267" text-anchor="middle" font-size="11" fill="#f1f3f8">Clear</text>
+      <text x="240" y="40" fill="#a9b2c3" font-size="11" font-weight="600">Suggestions</text>
+      <rect x="240" y="50" width="106" height="26" rx="13" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="252" y="67" fill="#f1f3f8" font-size="11"><tspan font-weight="800">light</tspan><tspan>ning relay</tspan></text>
+      <rect x="354" y="50" width="108" height="26" rx="13" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="366" y="67" fill="#f1f3f8" font-size="11"><tspan>northern </tspan><tspan font-weight="800">light</tspan><tspan>s</tspan></text>
+      <rect x="470" y="50" width="92" height="26" rx="13" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="482" y="67" fill="#f1f3f8" font-size="11"><tspan font-weight="800">light</tspan><tspan>house</tspan></text>
+      <text x="240" y="108" fill="#f1f3f8" font-size="13" font-weight="700">Results for “light”</text>
+      <text x="558" y="108" text-anchor="end" fill="#a9b2c3" font-size="11">7 results</text>
+      <rect x="240" y="128" width="318" height="44" rx="10" fill="#ffffff" fill-opacity="0.05"/>
+      <rect x="248" y="134" width="57" height="32" rx="5" fill="url(#c1)"/>
+      <text x="316" y="148" fill="#f1f3f8" font-size="13" font-weight="700">Lightning Relay</text>
+      <text x="316" y="164" fill="#a9b2c3" font-size="10.5">2025 · Sports drama</text>
+      <g filter="url(#glow)"><rect x="236" y="179" width="326" height="50" rx="10" fill="#1e2533" stroke="#f1f3f8" stroke-width="2.5"/></g>
+      <rect x="248" y="188" width="57" height="32" rx="5" fill="url(#c2)"/>
+      <text x="316" y="202" fill="#f1f3f8" font-size="13" font-weight="700">Light Years Apart</text>
+      <text x="316" y="218" fill="#a9b2c3" font-size="10.5">2025 · Science fiction</text>
+      <rect x="240" y="236" width="318" height="44" rx="10" fill="#ffffff" fill-opacity="0.05"/>
+      <rect x="248" y="242" width="57" height="32" rx="5" fill="url(#c3)"/>
+      <text x="316" y="256" fill="#f1f3f8" font-size="13" font-weight="700">Lighthouse Keepers</text>
+      <text x="316" y="272" fill="#a9b2c3" font-size="10.5">2024 · Drama</text>
+      <rect x="240" y="290" width="318" height="44" rx="10" fill="#ffffff" fill-opacity="0.05"/>
+      <rect x="248" y="296" width="57" height="32" rx="5" fill="url(#c4)"/>
+      <text x="316" y="310" fill="#f1f3f8" font-size="13" font-weight="700">Harbor Lights</text>
+      <text x="316" y="326" fill="#a9b2c3" font-size="10.5">2021 · Romance</text>
+    </g>
+  </g>
+</svg>
