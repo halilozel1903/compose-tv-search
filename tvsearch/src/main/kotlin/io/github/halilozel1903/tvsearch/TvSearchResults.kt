@@ -80,7 +80,9 @@ public fun <T> TvSearchResults(
             PendingResultFocus(state, keys, requesters, isVisible = { it in visible }, scrollTo = { listState.scrollToItem(it) })
             LazyColumn(
                 state = listState,
-                modifier = modifier.resultsFocusGroup(state, fallback),
+                modifier = modifier
+                    .fadingEdges(top = listState.canScrollBackward, bottom = listState.canScrollForward)
+                    .resultsFocusGroup(state, fallback),
                 contentPadding = contentPadding,
                 verticalArrangement = Arrangement.spacedBy(spacing),
             ) {
@@ -99,7 +101,9 @@ public fun <T> TvSearchResults(
             LazyVerticalGrid(
                 columns = GridCells.Fixed(layout.columns),
                 state = gridState,
-                modifier = modifier.resultsFocusGroup(state, fallback),
+                modifier = modifier
+                    .fadingEdges(top = gridState.canScrollBackward, bottom = gridState.canScrollForward)
+                    .resultsFocusGroup(state, fallback),
                 contentPadding = contentPadding,
                 verticalArrangement = Arrangement.spacedBy(spacing),
                 horizontalArrangement = Arrangement.spacedBy(spacing),
@@ -135,6 +139,9 @@ private fun PendingResultFocus(
         val target = pending as? SearchFocusTarget.Result ?: return@LaunchedEffect
         if (keys.isEmpty()) return@LaunchedEffect
         val index = target.index.coerceIn(0, keys.lastIndex)
+        // Entering the list goes through its focus restorer, which moves focus to the remembered
+        // result: make the target the remembered one first.
+        state.targetResult(keys[index], index)
         withFrameNanos { }
         if (!isVisible(index)) scrollTo(index)
         // The item may need a frame or two to be composed after scrolling.

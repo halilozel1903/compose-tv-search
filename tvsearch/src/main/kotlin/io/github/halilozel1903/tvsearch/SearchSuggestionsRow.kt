@@ -88,6 +88,7 @@ public fun SearchSuggestionsRow(
             state = listState,
             modifier = Modifier
                 .fillMaxWidth()
+                .fadingEdges(start = listState.canScrollBackward, end = listState.canScrollForward)
                 .onFocusChanged { if (it.hasFocus) state?.focusArea = SearchFocusArea.Suggestions }
                 .focusRestorer(fallback),
             contentPadding = contentPadding,

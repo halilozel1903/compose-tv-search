@@ -141,6 +141,15 @@ public class TvSearchState(
         if (pendingFocus == target) pendingFocus = null
     }
 
+    /**
+     * Marks the result a focus request is about to target, so the results' focus restorer, which
+     * redirects focus entering the list to the remembered result, lands on that result.
+     */
+    internal fun targetResult(key: Any, index: Int) {
+        lastFocusedResultKey = key
+        lastFocusedResultIndex = index
+    }
+
     internal fun onResultFocused(key: Any, index: Int) {
         lastFocusedResultKey = key
         lastFocusedResultIndex = index

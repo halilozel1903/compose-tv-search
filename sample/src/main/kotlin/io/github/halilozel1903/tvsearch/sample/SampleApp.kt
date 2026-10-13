@@ -29,7 +29,7 @@ enum class Scene(val id: String, val query: String, val focus: SearchFocusTarget
     }
 }
 
-private val SampleLabels = TvSearchLabels(placeholder = "Search the demo catalog")
+private val SampleLabels = TvSearchLabels(placeholder = "Search titles")
 
 @Composable
 fun SampleApp(scene: Scene) {
